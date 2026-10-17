@@ -5,7 +5,7 @@ I don't have a ton of experience working within a terminal window but once I got
 This hands-on analysis mini-project was also another great learning experience to get more comfortable with the different components of GitHub.
 I felt like it all went together pretty smoothly and the integration was cohesive.
 
-Codex, for the most part, did not really struggle.  
+Codex, for the most part, did not really struggle.
 There were a couple of times where folder structure was causing a bit of an issue but eventually, after some clearer and more explicit instructions it was able to figure out where I wanted the outputs to actually go.
 Other than that, I found the whole analysis experience quite enjoyable.
 Codex offered suggestions along the way of things I had not thought of but then I was able to build off of their recommendations for an even better and more refined analysis.
